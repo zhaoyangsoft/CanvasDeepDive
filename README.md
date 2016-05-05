@@ -1,6 +1,6 @@
 # canvas 深入浅出
 
-copy right is joshondesign
+翻译. joshondesign
 
 
 
