@@ -1,6 +1,8 @@
 # canvas 深入浅出
 
-翻译. joshondesign
+作者: joshondesign
+翻译: mickle.zy
+
 
 
 
